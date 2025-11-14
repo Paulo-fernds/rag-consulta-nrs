@@ -37,9 +37,9 @@ A interface inclui controles para ajustar desempenho:
 
 ### 📸 Exemplos
 
+![Screenshot 3](https://github.com/user-attachments/assets/3df55501-8fd5-4b8b-b953-0b447c7fbdcf)
 ![Screenshot 1](https://github.com/user-attachments/assets/fe86a1d0-2665-4f4e-bd82-3cbeec620e83)
 ![Screenshot 2](https://github.com/user-attachments/assets/c58461c2-30ae-49c3-9784-d3036a645f52)
-![Screenshot 3](https://github.com/user-attachments/assets/3df55501-8fd5-4b8b-b953-0b447c7fbdcf)
 
 ---
 
