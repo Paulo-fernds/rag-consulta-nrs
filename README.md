@@ -72,10 +72,9 @@ Resposta gerada com referência: *(nr-35-atualizada-2025.pdf, p.18)*
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.10+**  
+- **Python**  
 - **FAISS**  
 - **Sentence-BERT**  
-- **pdfplumber / PyPDF2**  
 - **Ollama**  
 - **Streamlit**  
 
