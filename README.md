@@ -80,5 +80,3 @@ Resposta gerada com referência: *(nr-35-atualizada-2025.pdf, p.18)*
 
 ---
 
-## 📁 Estrutura do Projeto
-
